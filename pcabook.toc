@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Preface}{1}{section.1}
+\contentsline {section}{\numberline {2}Introduction}{1}{section.2}
+\contentsline {section}{\numberline {3}One Dimensional Dataset }{1}{section.3}
+\contentsline {subsection}{\numberline {3.1}Mean}{1}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Standard Deviation}{1}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Variance}{2}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Conclusion}{2}{subsection.3.4}
+\contentsline {section}{\numberline {4}Two Dimensional Dataset}{2}{section.4}
+\contentsline {subsection}{\numberline {4.1}Covariance}{2}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Variance-Covariance Matrix}{3}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Eigen Values and Eigen Vectors}{3}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Principal Component}{4}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Final Transformed Data}{4}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Dimensionality Reduction}{6}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Conclusion}{6}{subsection.4.7}
+\contentsline {section}{\numberline {5}Multi Dimensional Dataset}{6}{section.5}
+\contentsline {section}{\numberline {6}Reconstruction}{7}{section.6}
+\contentsline {section}{\numberline {7}References}{7}{section.7}

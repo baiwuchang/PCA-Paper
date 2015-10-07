@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Preface}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{One Dimensional Dataset }{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Mean}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Standard Deviation}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Variance}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Conclusion}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Two Dimensional Dataset}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Covariance}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Variance-Covariance Matrix}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Eigen Values and Eigen Vectors}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Principal Component}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.5}{Final Transformed Data}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.6}{Dimensionality Reduction}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.7}{Conclusion}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Multi Dimensional Dataset}{}% 16
+\BOOKMARK [1][-]{section.6}{Reconstruction}{}% 17
+\BOOKMARK [1][-]{section.7}{References}{}% 18

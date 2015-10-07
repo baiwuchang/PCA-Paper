@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{abdi2010principal}
+Herv{\'e} Abdi and Lynne~J Williams.
+\newblock Principal component analysis.
+\newblock {\em Wiley Interdisciplinary Reviews: Computational Statistics},
+  2(4):433--459, 2010.
+
+\bibitem{bro2014principal}
+Rasmus Bro and Age~K Smilde.
+\newblock Principal component analysis.
+\newblock {\em Analytical Methods}, 6(9):2812--2831, 2014.
+
+\bibitem{Daffertshofer:2004aa}
+Andreas Daffertshofer, Claudine J~C Lamoth, Onno~G Meijer, and Peter~J Beek.
+\newblock Pca in studying coordination and variability: a tutorial.
+\newblock {\em Clin Biomech (Bristol, Avon)}, 19(4):415--28, May 2004.
+
+\bibitem{DBLP:journals/jmiv/DamonM14}
+James~N. Damon and J.~S. Marron.
+\newblock Backwards principal component analysis and principal nested
+  relations.
+\newblock {\em Journal of Mathematical Imaging and Vision}, 50(1-2):107--114,
+  2014.
+
+\bibitem{DBLP:journals/iajit/GulrezA15}
+Tauseef Gulrez and Abdullah Al{-}Odienat.
+\newblock A new perspective on principal component analysis using inverse
+  covariance.
+\newblock {\em Int. Arab J. Inf. Technol.}, 12(1):104--109, 2015.
+
+\bibitem{hyvarinen1970principal}
+Lassi Hyv{\"a}rinen.
+\newblock Principal component analysis.
+\newblock In {\em Mathematical Modeling for Industrial Processes}, pages
+  82--104. Springer, 1970.
+
+\bibitem{DBLP:journals/corr/Ibraheem14a}
+Abdulrahman~Oladipupo Ibraheem.
+\newblock Correlation of data reconstruction error and shrinkages in pair-wise
+  distances under principal component analysis {(PCA)}.
+\newblock {\em CoRR}, abs/1412.6752, 2014.
+
+\bibitem{DBLP:journals/tcyb/Kwak14}
+Nojun Kwak.
+\newblock Principal component analysis by {\textdollar}l{\_}\{p\}{\textdollar}
+  -norm maximization.
+\newblock {\em {IEEE} T. Cybernetics}, 44(5):594--609, 2014.
+
+\bibitem{DBLP:journals/tnn/LaiXCYZ14}
+Zhihui Lai, Yong Xu, Qingcai Chen, Jian Yang, and David Zhang.
+\newblock Multilinear sparse principal component analysis.
+\newblock {\em {IEEE} Trans. Neural Netw. Learning Syst.}, 25(10):1942--1950,
+  2014.
+
+\bibitem{DBLP:journals/corr/NarasimhanB15}
+Shankar Narasimhan and Nirav Bhatt.
+\newblock Deconstructing principal component analysis using a data
+  reconciliation perspective.
+\newblock {\em CoRR}, abs/1505.00314, 2015.
+
+\bibitem{rencher2002principal}
+Alvin~C Rencher.
+\newblock Principal component analysis.
+\newblock {\em Methods of Multivariate Analysis, Second Edition}, pages
+  380--407, 2002.
+
+\bibitem{wold1987principal}
+Svante Wold, Kim Esbensen, and Paul Geladi.
+\newblock Principal component analysis.
+\newblock {\em Chemometrics and intelligent laboratory systems}, 2(1):37--52,
+  1987.
+
+\end{thebibliography}
